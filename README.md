@@ -1,2 +1,2 @@
 # mylove
-I want to change the computer
+I want to challenge the computer
